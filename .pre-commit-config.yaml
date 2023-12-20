@@ -1,5 +1,5 @@
 repos:
 -   repo: https://github.com/spectralops/spectral-pre-commit
-    rev: master
+    rev: 8156c8ec2a371c90259285ebff564697c3cf30be
     hooks:
     - id: spectral
